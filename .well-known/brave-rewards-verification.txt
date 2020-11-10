@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: portfoliogmax.netlify.app
+Token: 637d50c93f6aa71ead5d89b8f25d5ede00e9b5ff89ace5d4d875211c50703fb7
